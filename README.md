@@ -48,7 +48,7 @@ Dengan pola ini, aplikasi menjadi lebih terstruktur, mudah dipelihara, dan memis
 2. Clone repositori ini:
 
    ```bash
-   git clone <URL_REPOSITORY_ANDA>
+   git clone git clone https://github.com/abdairsyaputramirudin/afl2-webdev-todo-abda
    ```
 
 3. Masuk ke folder proyek:
