@@ -13,37 +13,6 @@ Dengan pola ini, aplikasi menjadi lebih terstruktur, mudah dipelihara, dan memis
 ## Cara Menjalankan Aplikasi
 
 1. Pastikan Flutter SDK sudah terinstall di komputer Anda.
-2. Clone repositori ini:
-
-   ```bash
-   git clone <URL_REPOSITORY_ANDA>
-   ```
-
-3. Masuk ke folder proyek:
-
-   ```bash
-   cd nama_folder_proyek
-   ```
-
-4. Install dependencies:
-
-   ```bash
-   flutter pub get
-   ```
-
-5. Jalankan aplikasi pada emulator atau perangkat:
-
-   ```bash
-   flutter run
-   ```
-
-   Tentu! Berikut kelanjutan bagian **Cara Menjalankan Aplikasi** setelah nomor 5 dengan tambahan instruksi lengkap tentang penggunaan programnya:
-
----
-
-## Cara Menjalankan Aplikasi
-
-1. Pastikan Flutter SDK sudah terinstall di komputer Anda.
 
 2. Clone repositori ini:
 
